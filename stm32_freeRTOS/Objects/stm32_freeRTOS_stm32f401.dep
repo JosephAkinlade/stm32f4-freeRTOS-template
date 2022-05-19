@@ -1,0 +1,137 @@
+Dependencies for Project 'stm32_freeRTOS', Target 'stm32f401': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\main.c)(0x62869695)(-c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FreeRTOS\Source\include -I .\FreeRTOS\Source\portable\RVDS\ARM_CM4F -I ..\stm32_freeRTOS-I.\RTE\_stm32f401-IC:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x61112330)
+I (C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x61112330)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D44B52)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x61112330)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x602585E4)
+I (.\FreeRTOS\Source\include\FreeRTOS.h)(0x617E453B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (..\stm32_freeRTOS\FreeRTOSConfig.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\projdefs.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\portable.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\deprecated_definitions.h)(0x617E453B)
+I (.\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\mpu_wrappers.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\task.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\list.h)(0x617E453B)
+F (.\debug.c)(0x62868D49)(-c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FreeRTOS\Source\include -I .\FreeRTOS\Source\portable\RVDS\ARM_CM4F -I ..\stm32_freeRTOS-I.\RTE\_stm32f401-IC:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o .\objects\debug.o --omf_browse .\objects\debug.crf --depend .\objects\debug.d)
+I (C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x61112330)
+I (C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x61112330)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D44B52)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x61112330)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x602585E4)
+F (.\FreeRTOSConfig.h)(0x617E453B)()
+F (.\FreeRTOS\Source\list.c)(0x617E453B)(-c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FreeRTOS\Source\include -I .\FreeRTOS\Source\portable\RVDS\ARM_CM4F -I ..\stm32_freeRTOS-I.\RTE\_stm32f401-IC:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o .\objects\list.o --omf_browse .\objects\list.crf --depend .\objects\list.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (.\FreeRTOS\Source\include\FreeRTOS.h)(0x617E453B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (..\stm32_freeRTOS\FreeRTOSConfig.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\projdefs.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\portable.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\deprecated_definitions.h)(0x617E453B)
+I (.\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\mpu_wrappers.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\list.h)(0x617E453B)
+F (.\FreeRTOS\Source\queue.c)(0x617E453B)(-c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FreeRTOS\Source\include -I .\FreeRTOS\Source\portable\RVDS\ARM_CM4F -I ..\stm32_freeRTOS-I.\RTE\_stm32f401-IC:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o .\objects\queue.o --omf_browse .\objects\queue.crf --depend .\objects\queue.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x602585EE)
+I (.\FreeRTOS\Source\include\FreeRTOS.h)(0x617E453B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (..\stm32_freeRTOS\FreeRTOSConfig.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\projdefs.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\portable.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\deprecated_definitions.h)(0x617E453B)
+I (.\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\mpu_wrappers.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\task.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\list.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\queue.h)(0x617E453B)
+F (.\FreeRTOS\Source\tasks.c)(0x617E453B)(-c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FreeRTOS\Source\include -I .\FreeRTOS\Source\portable\RVDS\ARM_CM4F -I ..\stm32_freeRTOS-I.\RTE\_stm32f401-IC:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o .\objects\tasks.o --omf_browse .\objects\tasks.crf --depend .\objects\tasks.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x602585EE)
+I (.\FreeRTOS\Source\include\FreeRTOS.h)(0x617E453B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (..\stm32_freeRTOS\FreeRTOSConfig.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\projdefs.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\portable.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\deprecated_definitions.h)(0x617E453B)
+I (.\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\mpu_wrappers.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\task.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\list.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\timers.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\stack_macros.h)(0x617E453B)
+F (.\FreeRTOS\Source\timers.c)(0x617E453B)(-c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FreeRTOS\Source\include -I .\FreeRTOS\Source\portable\RVDS\ARM_CM4F -I ..\stm32_freeRTOS-I.\RTE\_stm32f401-IC:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o .\objects\timers.o --omf_browse .\objects\timers.crf --depend .\objects\timers.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (.\FreeRTOS\Source\include\FreeRTOS.h)(0x617E453B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (..\stm32_freeRTOS\FreeRTOSConfig.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\projdefs.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\portable.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\deprecated_definitions.h)(0x617E453B)
+I (.\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\mpu_wrappers.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\task.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\list.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\queue.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\timers.h)(0x617E453B)
+F (.\FreeRTOS\Source\portable\MemMang\heap_1.c)(0x617E453B)(-c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FreeRTOS\Source\include -I .\FreeRTOS\Source\portable\RVDS\ARM_CM4F -I ..\stm32_freeRTOS-I.\RTE\_stm32f401-IC:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o .\objects\heap_1.o --omf_browse .\objects\heap_1.crf --depend .\objects\heap_1.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (.\FreeRTOS\Source\include\FreeRTOS.h)(0x617E453B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (..\stm32_freeRTOS\FreeRTOSConfig.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\projdefs.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\portable.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\deprecated_definitions.h)(0x617E453B)
+I (.\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\mpu_wrappers.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\task.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\list.h)(0x617E453B)
+F (.\FreeRTOS\Source\portable\RVDS\ARM_CM4F\port.c)(0x617E453B)(-c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FreeRTOS\Source\include -I .\FreeRTOS\Source\portable\RVDS\ARM_CM4F -I ..\stm32_freeRTOS-I.\RTE\_stm32f401-IC:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o .\objects\port.o --omf_browse .\objects\port.crf --depend .\objects\port.d)
+I (.\FreeRTOS\Source\include\FreeRTOS.h)(0x617E453B)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (..\stm32_freeRTOS\FreeRTOSConfig.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\projdefs.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\portable.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\deprecated_definitions.h)(0x617E453B)
+I (.\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\mpu_wrappers.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\task.h)(0x617E453B)
+I (.\FreeRTOS\Source\include\list.h)(0x617E453B)
+F (C:\Users\USER\AppData\Local\Arm\Packs\Keil\ARM_Compiler\1.7.0\Source\retarget_io.c)(0x584E8C2E)(-c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FreeRTOS\Source\include -I .\FreeRTOS\Source\portable\RVDS\ARM_CM4F -I ..\stm32_freeRTOS-I.\RTE\_stm32f401-IC:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o .\objects\retarget_io.o --omf_browse .\objects\retarget_io.crf --depend .\objects\retarget_io.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x602585E4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
+I (C:\Keil_v5\ARM\ARMCC\include\assert.h)(0x602585E8)
+I (C:\Keil_v5\ARM\ARMCC\include\rt_sys.h)(0x602585EE)
+I (.\RTE\_stm32f401\RTE_Components.h)(0x62868F28)
+F (RTE\Device\STM32F401RETx\startup_stm32f401xe.s)(0x61112330)(--cpu Cortex-M4.fp.sp -g --apcs=interwork -I.\RTE\_stm32f401-IC:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "STM32F401xE SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_stm32f401xe.lst --xref -o .\objects\startup_stm32f401xe.o --depend .\objects\startup_stm32f401xe.d)
+F (RTE\Device\STM32F401RETx\system_stm32f4xx.c)(0x61112330)(-c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FreeRTOS\Source\include -I .\FreeRTOS\Source\portable\RVDS\ARM_CM4F -I ..\stm32_freeRTOS-I.\RTE\_stm32f401-IC:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F401xE -D_RTE_-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x61112330)
+I (C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x61112330)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D44B52)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D44B52)
+I (C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x61112330)
